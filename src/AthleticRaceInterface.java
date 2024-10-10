@@ -1,6 +1,7 @@
 import javax.swing.*;
 import java.awt.event.ActionListener;
 
+// CUIDADO dice que esto deberia ser una interface
 public class AthleticRaceInterface extends JFrame implements ActionListener {
 
     // Componentes
